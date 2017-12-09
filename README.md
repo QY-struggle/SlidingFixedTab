@@ -1,0 +1,2 @@
+# SlidingFixedTab
+CoordinatorLayout实现TabLayout+ViewPager滑动tab固定的效果
